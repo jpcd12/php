@@ -2,6 +2,6 @@
 
 	echo "Olá Mundo 456!";
 
-	echo "Olá humanos!";
+	echo "Olá humanos e pessoas!";
 
 ?>
